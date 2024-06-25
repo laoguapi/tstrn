@@ -1,2 +1,2 @@
 # tstrn
-# code for two-stage transfer regression networks
+# code for two-stage transfer regression networks (TSTRN)
